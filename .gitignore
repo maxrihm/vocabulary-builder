@@ -1,3 +1,7 @@
-/.vs
-/bin
-/obj
+.vs/
+bin/
+obj/
+App.xaml.cs
+AssemblyInfo.cs
+VocabularyBuilder.csproj.user
+VocabularyBuilder.sln
